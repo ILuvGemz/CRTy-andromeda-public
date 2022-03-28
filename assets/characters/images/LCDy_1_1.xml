@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LCDy_1_1.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LCDy_down_anim0000" x="0" y="0" width="345" height="280" frameX="-2" frameY="0" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0001" x="0" y="0" width="345" height="280" frameX="-2" frameY="0" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0002" x="353" y="0" width="350" height="267" frameX="0" frameY="-13" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0003" x="353" y="0" width="350" height="267" frameX="0" frameY="-13" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0004" x="711" y="0" width="350" height="257" frameX="0" frameY="-23" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0005" x="711" y="0" width="350" height="257" frameX="0" frameY="-23" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0006" x="1069" y="0" width="347" height="262" frameX="-1" frameY="-18" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0007" x="1069" y="0" width="347" height="262" frameX="-1" frameY="-18" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0008" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0009" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0010" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0011" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0012" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0013" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_down_anim0014" x="1424" y="0" width="346" height="266" frameX="-1" frameY="-14" frameWidth="350" frameHeight="280"/>
+	<SubTexture name="LCDy_idle_anim0000" x="0" y="288" width="316" height="267" frameX="-3" frameY="-10" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0001" x="0" y="288" width="316" height="267" frameX="-3" frameY="-10" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0002" x="324" y="288" width="321" height="276" frameX="0" frameY="-1" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0003" x="324" y="288" width="321" height="276" frameX="0" frameY="-1" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0004" x="653" y="288" width="302" height="269" frameX="-1" frameY="-8" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0005" x="653" y="288" width="302" height="269" frameX="-1" frameY="-8" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0006" x="963" y="288" width="295" height="275" frameX="-3" frameY="-2" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0007" x="963" y="288" width="295" height="275" frameX="-3" frameY="-2" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0008" x="1266" y="288" width="295" height="277" frameX="-3" frameY="0" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0009" x="1266" y="288" width="295" height="277" frameX="-3" frameY="0" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0010" x="1569" y="288" width="295" height="276" frameX="-3" frameY="-1" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0011" x="1569" y="288" width="295" height="276" frameX="-3" frameY="-1" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0012" x="1569" y="288" width="295" height="276" frameX="-3" frameY="-1" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_idle_anim0013" x="1569" y="288" width="295" height="276" frameX="-3" frameY="-1" frameWidth="321" frameHeight="277"/>
+	<SubTexture name="LCDy_left_anim0000" x="0" y="573" width="296" height="286" frameX="-39" frameY="-8" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0001" x="0" y="573" width="296" height="286" frameX="-39" frameY="-8" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0002" x="304" y="573" width="311" height="288" frameX="-21" frameY="-6" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0003" x="304" y="573" width="311" height="288" frameX="-21" frameY="-6" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0004" x="623" y="573" width="324" height="293" frameX="-3" frameY="-1" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0005" x="623" y="573" width="324" height="293" frameX="-3" frameY="-1" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0006" x="955" y="573" width="327" height="294" frameX="0" frameY="0" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0007" x="955" y="573" width="327" height="294" frameX="0" frameY="0" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0008" x="1290" y="573" width="325" height="292" frameX="-4" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0009" x="1290" y="573" width="325" height="292" frameX="-4" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0010" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0011" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0012" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0013" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0014" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0015" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0016" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0017" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0018" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_left_anim0019" x="1623" y="573" width="322" height="292" frameX="-7" frameY="-2" frameWidth="335" frameHeight="294"/>
+	<SubTexture name="LCDy_right_anim0000" x="0" y="875" width="226" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0001" x="0" y="875" width="226" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0002" x="234" y="875" width="238" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0003" x="234" y="875" width="238" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0004" x="480" y="875" width="245" height="276"/>
+	<SubTexture name="LCDy_right_anim0005" x="480" y="875" width="245" height="276"/>
+	<SubTexture name="LCDy_right_anim0006" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0007" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0008" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0009" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0010" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0011" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0012" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_right_anim0013" x="733" y="875" width="243" height="276" frameX="0" frameY="0" frameWidth="245" frameHeight="276"/>
+	<SubTexture name="LCDy_up_anim0000" x="984" y="875" width="285" height="324" frameX="0" frameY="-5" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0001" x="984" y="875" width="285" height="324" frameX="0" frameY="-5" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0002" x="1277" y="875" width="284" height="329" frameX="-9" frameY="0" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0003" x="1277" y="875" width="284" height="329" frameX="-9" frameY="0" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0004" x="1569" y="875" width="281" height="328" frameX="-17" frameY="-1" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0005" x="1569" y="875" width="281" height="328" frameX="-17" frameY="-1" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0006" x="0" y="1212" width="280" height="315" frameX="-21" frameY="-14" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0007" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0008" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0009" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0010" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0011" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0012" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+	<SubTexture name="LCDy_up_anim0013" x="288" y="1212" width="275" height="305" frameX="-33" frameY="-24" frameWidth="308" frameHeight="329"/>
+</TextureAtlas>
